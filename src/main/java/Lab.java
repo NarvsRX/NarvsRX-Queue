@@ -48,6 +48,7 @@ public class Lab {
      */
     public int getSize(Queue<String> queue){
         return queue.size();
+        /*Lab Completed */
     }
 
     /**
