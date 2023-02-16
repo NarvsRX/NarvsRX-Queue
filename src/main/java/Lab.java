@@ -38,7 +38,7 @@ public class Lab {
      */
     public Deque<String> createQueue(){
         Deque<String> Nom = new LinkedList <String>();
-        return Nom;
+        return Nom;/*Lab Completed */
     }
 
     /**
