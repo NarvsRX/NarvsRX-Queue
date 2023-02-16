@@ -78,5 +78,6 @@ public class Lab {
      */
     public String getStartOfQueueWithoutRemoving(Queue<String> queue){
         return queue.peek();
+        /*Lab Completed */
     }
 }
